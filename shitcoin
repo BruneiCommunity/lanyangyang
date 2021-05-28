@@ -22,3 +22,9 @@ print("Loading",end = "")
 for i in range(20):
     print(".",end = '',flush = True)
     time.sleep(0.5)
+#!/usr/bin/python3
+
+import time  # 引入time模块
+
+ticks = time.time()
+print ("当前时间戳为:", ticks)
