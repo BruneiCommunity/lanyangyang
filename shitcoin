@@ -31,3 +31,4 @@ print ("当前时间戳为:", ticks)
 python -V
 python --version
 Python 3.3.2
+#!/usr/bin/python3
