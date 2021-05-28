@@ -1,0 +1,16 @@
+>>>print(1)  
+1  
+>>> print("Hello World")  
+Hello World  
+ 
+>>> a = 1
+>>> b = 'runoob'
+>>> print(a,b)
+1 runoob
+ 
+>>> print("aaa""bbb")
+aaabbb
+>>> print("aaa","bbb")
+aaa bbb
+>>> 
+what ant today
