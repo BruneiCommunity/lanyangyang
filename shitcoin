@@ -33,3 +33,4 @@ python --version
 Python 3.3.2
 #!/usr/bin/python3
 print("Hello, World!")
+$ python3 hello.py
