@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 hello world 
 print (hello github)
 hell every one
-MY twitter ：@ZKchenxin |
-telegram ： @ZKchenxin  |
+MY twitter ：@chenduoxiu
+telegram ： @chenduoxiu |
 Contact me if you need any more thank you！
